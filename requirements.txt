@@ -1,0 +1,17 @@
+pandas
+numpy
+matplotlib
+seaborn
+plotly
+scipy
+scikit-learn
+statsmodels
+ydata-profiling
+sweetviz
+umap-learn
+wordcloud
+folium
+category-encoders
+kaleido
+ipywidgets
+jupyter
